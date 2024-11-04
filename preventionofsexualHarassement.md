@@ -89,5 +89,6 @@ The POSH Act and similar laws provide a framework for addressing and preventing 
 Employers and employees alike must work together to ensure harassment is addressed swiftly and effectively, creating a productive, respectful work culture.
 
 # References :
-[Prevention of Sexual Harassment](http://hrlibrary.umn.edu/svaw/harassment/explore/5prevention.htm)
+[Prevention of Sexual Harassment](http://hrlibrary.umn.edu/svaw/harassment/explore/5prevention.htm)  
+
 [An article on POSH Act](https://www.nishithdesai.com/fileadmin/user_upload/pdfs/Research%20Papers/Prevention_of_Sexual_Harassment_at_Workplace.pdf)
